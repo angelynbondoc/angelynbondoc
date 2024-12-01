@@ -10,6 +10,7 @@ I am always willing to learn new things, both within and beyond my current knowl
 ## Certification
 
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/8ed4134e0df940c582bac01b7018d738?fbclid=IwZXh0bgNhZW0CMTEAAR3QvC9k7uHhJreOfh9gGcwJRx1-7BhhunkKeszpR_vFRvrF4Igtr-Xi1cU_aem_QBDv1OYSp_GD93YGP4f8EA)
+- [OCI Foundations Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5408853&trackId=OCI2024FNDCFA&key=54753b30ad2a880671c61325de4c440227c59d13)
 
 ## Skill Sets
 - Programming: Java
