@@ -11,6 +11,7 @@ I am always willing to learn new things, both within and beyond my current knowl
 
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/8ed4134e0df940c582bac01b7018d738?fbclid=IwZXh0bgNhZW0CMTEAAR3QvC9k7uHhJreOfh9gGcwJRx1-7BhhunkKeszpR_vFRvrF4Igtr-Xi1cU_aem_QBDv1OYSp_GD93YGP4f8EA)
 - [Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5E457A2000D0A5BD9D483A10E60A857900C449E5681C2F5AD77DED3FF0DD06A0)
+- [Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5E457A2000D0A5BD9D483A10E60A8579F0F52A1C7E5B8D21A3A5589ED99BB707) 
 
 ## Skill Sets
 - Programming: Java
