@@ -1,6 +1,4 @@
 ## Hi there, I'm Angelyn P. Bondoc! 
-I am currently learning to code so I can expand my skills and gain practical experience. 
-I am always willing to learn new things, both within and beyond my current knowledge, and to share those knowledge with others.
 
 ## Education
 - Bachelor of Science in Computer Science
